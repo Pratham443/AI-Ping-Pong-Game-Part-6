@@ -1,0 +1,31 @@
+body {
+    background-size: cover;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.heading {
+    width: 100%;
+    text-align: left;
+    font-size: 23px;
+    margin: 0px;
+}
+
+.button {
+    float: right;
+    border: 1px solid white;
+}
+
+.copyright_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    background-color: gray;
+    color: white;
+}
